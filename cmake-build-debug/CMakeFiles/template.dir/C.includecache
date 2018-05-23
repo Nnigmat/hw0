@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ngm/Code/C/template/binarize.c
+binarize.h
+/home/ngm/Code/C/template/binarize.h
+
+/home/ngm/Code/C/template/binarize.h
+limits.h
+-
+stdio.h
+-
+
+/home/ngm/Code/C/template/test_binarize.c
+stdio.h
+-
+binarize.h
+/home/ngm/Code/C/template/binarize.h
+

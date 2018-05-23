@@ -1,0 +1,3 @@
+/home/ngm/Code/C/template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ngm/Code/C/template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ngm/Code/C/template/cmake-build-debug/CMakeFiles/template.dir
